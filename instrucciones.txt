@@ -1,0 +1,11 @@
+Instrucciones para correr el codigo:
+click derecho sobre la clase y despúes click en "Run".Con
+esto ya se desprendera la pantalla de la calculadora.
+
+Instrucciones para usar la calculadora:
+Primero se debe seleccionar,del comboBox que aparece en pantalla,
+la fruta que se desea  sumar.
+Por ultimo es necesario para ejecutar la operacion dar click sobre
+el boton "Realizar Operacion", al hacer esto se sumara la fruta seleccionada
+con el resultado de la suma anterior.
+El resultado aparecera en pantalla inmediatamente.
